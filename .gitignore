@@ -1,0 +1,13 @@
+# Build and install directories
+build/
+install/
+log/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.pyc
+
+# OS files
+.DS_Store
